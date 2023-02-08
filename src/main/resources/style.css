@@ -1,0 +1,52 @@
+/**
+ * @author Jeremiah Torralba
+ */
+
+/* ask name page */
+/* header */
+.header {
+    -fx-font-family: segoe ui light;
+    -fx-font-size: 32pt;
+}
+
+/* ask */
+.ask {
+    -fx-font-family: segoe ui light;
+    -fx-font-size: 14pt;
+}
+
+/* app page */
+/* VBox */
+.root {
+    -fx-font-family: segoe ui light;
+    -fx-background-color: white;
+}
+
+/* header */
+.hello {
+    -fx-font-size: 28pt;
+}
+
+/* month and week */
+.mowe {
+    -fx-font-size: 13pt;
+    -fx-color: white;
+}
+
+/* day labels */
+.day {
+    -fx-font-size: 13pt;
+}
+
+/* day textareas */
+.daytext {
+    -fx-font-size: 11pt;
+    -fx-min-height: 425;
+    -fx-min-width: 10;
+}
+
+/* buttons */
+.buttons {
+    -fx-font-size: 13pt;
+    -fx-color: white;
+}
